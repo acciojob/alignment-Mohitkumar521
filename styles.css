@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.middle{
+	border:1px solid black;
+}
+
+#t11,#t12,#13{
+	padding:1px;
+}
+.green{
+	background-color:green;
+}
+.blue{
+	background-color:blue;
+}
+/* #t-image{
+	background-image:
+} */
